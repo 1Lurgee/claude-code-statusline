@@ -4,9 +4,7 @@
 
 ## 效果预览
 
-```text
-[目录] · [模型名] · ●●●○○ high · ██████░░░░ 60%
-```
+![Statusline Demo](assets/screenshot.png)
 
 ## 功能特性
 
